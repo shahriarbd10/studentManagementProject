@@ -1,0 +1,2 @@
+# studentManagementProject
+Project for lab
